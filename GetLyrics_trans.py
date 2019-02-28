@@ -6,8 +6,8 @@ import urllib
 import time
 
 
-# split_s = ' | '
-split_s = ' 🎵 '
+split_s = ' | '
+# split_s = ' 🎵 '
 
 
 def str2int(s):
